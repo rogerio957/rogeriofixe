@@ -1,0 +1,246 @@
+
+
+#EXTM3U 
+#EXTINF:-1 group-title="TV" tvg-id="SIC" tvg-logo="https://caixapreta.pt/logos/SIC.png",SIC
+https://live.impresa.pt/live/sic/sic540p.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="SIC NotÃ­cias" tvg-logo="https://caixapreta.pt/logos/SIC-NotÃ­cias.png",SIC NotÃ­cias
+https://live.impresa.pt/live/sicnot/sicnot540p.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="CNN Brasil" tvg-logo="https://caixapreta.pt/logos/CNN-Brasil.webp",CNN Brasil
+https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="Porto Canal" tvg-logo="https://caixapreta.pt/logos/Porto-Canal.png",Porto Canal
+https://streamer-a03.videos.sapo.pt/live/portocanal/playlist.m3u8
+#EXTINF:-1 group-title="TV" tvg-logo="https://caixapreta.pt/logos/TDM-TeledifusÃ£o_de_Macau.png",TDM - TeledifusÃ£o de Macau (PT)
+https://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
+#EXTINF:-1 group-title="TV" tvg-logo="https://caixapreta.pt/logos/TDM-TeledifusÃ£o_de_Macau.png",TDM - TeledifusÃ£o de Macau (CN)
+https://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
+#EXTINF:-1 group-title="TV" tvg-logo="https://caixapreta.pt/logos/TVM.png",TVM
+http://196.28.226.121:1935/live/smil:Channel1.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="Futura [Brazil]" tvg-logo="https://caixapreta.pt/logos/Canal-Futura.png",Canal Futura
+http://srv3.zoeweb.tv:1935/z01-live/stream/livestream.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="AgroBrasil TV" tvg-logo="https://caixapreta.pt/logos/AgroBrasil-TV.png",AgroBrasil TV
+http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="TV Rio Preto SJRP" tvg-logo="https://caixapreta.pt/logos/TV-Rio-Preto.png",TV Rio Preto
+https://livefocamundo.com:8081/8162/index.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="TeleSUR" tvg-logo="https://caixapreta.pt/logos/Telesur.png",TeleSUR
+https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="SKY News" tvg-logo="https://caixapreta.pt/logos/Sky-News.png",Sky News
+http://skynews-go-hls.ak-cdn.skydvn.com/skynews/1404/latest.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="DW Espanol" tvg-logo="https://caixapreta.pt/logos/Deutsche-Welle.png",Deutsche Welle EspaÃ±ol
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="TV5 Monde" tvg-logo="https://caixapreta.pt/logos/TV5-Monde-Info.png",TV5 Monde Info
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="TVE 24H" tvg-logo="https://caixapreta.pt/logos/TVE-24h.png",TVE 24h
+https://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_0650_av-b.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="TV GalÃ­cia" tvg-logo="https://caixapreta.pt/logos/TVG.png",TV GalÃ­cia
+https://europa-crtvg.flumotion.com/crtvg/europa_high/playlist.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="ETB Sat" tvg-logo="https://caixapreta.pt/logos/EITB-EUS.png",EITB.EUS
+https://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-p.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="Canal Extremadura" tvg-logo="https://caixapreta.pt/logos/Canal-Extremadura.png",Canal Extremadura
+https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="Top TV" tvg-logo="https://caixapreta.pt/logos/Top-TV.png",Top TV
+https://5d23bdca513db.streamlock.net:443/8006/8006/playlist.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="1HD Music" tvg-logo="https://caixapreta.pt/logos/1HD.png",1HD Music
+http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
+#EXTINF:-1 group-title="TV" tvg-logo="https://caixapreta.pt/logos/NRG-91-TV.png",NRG 91 TV
+http://tv.nrg91.gr:1935/onweb/live/playlist.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="4FUN.TV" tvg-id="4fun.pl" tvg-logo="https://caixapreta.pt/logos/4Fun-TV.png",4Fun.TV
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+#EXTINF:-1 group-title="TV" tvg-logo="https://caixapreta.pt/logos/CMC.png",California Music Channel
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/playlist.m3u8
+#EXTINF:-1 group-title="TV" tvg-logo="https://caixapreta.pt/logos/CMC.png",Country Music Channel
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="Abu Dhabi Sports" tvg-logo="https://caixapreta.pt/logos/Abu-Dhabi-Sports-1.png",Abu Dhabi Sports 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="Abu Dhabi Sports 2" tvg-logo="https://caixapreta.pt/logos/Abu-Dhabi-Sports-2.png",Abu Dhabi Sports 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="Abu Dhabi Sports 3" tvg-logo="https://caixapreta.pt/logos/Abu-Dhabi-Sports-3.png",Abu Dhabi Sports 3
+https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="Abu Dhabi Sports 4" tvg-logo="https://caixapreta.pt/logos/Abu-Dhabi-Sports-4.png",Abu Dhabi Sports 4
+https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="Yas TV" tvg-logo="https://caixapreta.pt/logos/Yas-TV.png",Yas TV
+https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="Dubai Sports" tvg-logo="https://caixapreta.pt/logos/Dubai-Sports.png",Dubai Sports
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="Dubai Sports 2" tvg-logo="https://caixapreta.pt/logos/Dubai-Sports-2.png",Dubai Sports 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="Dubai Sports 3" tvg-logo="https://caixapreta.pt/logos/Dubai-Sports-3.png",Dubai Sports 3
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="Dubai Racing 1 HD" tvg-logo="https://caixapreta.pt/logos/Dubai-Racing.png",Dubai Racing
+https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="TV" tvg-logo="https://caixapreta.pt/logos/Red-Bull-TV.png",Red Bull TV 
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="ARD" tvg-logo="https://caixapreta.pt/logos/Das-Erste.png",Das Erste
+https://mcdn.daserste.de/daserste/int/master.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="Gong Max" tvg-logo="https://caixapreta.pt/logos/GONG-Max.png",GONG Max
+http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/playlist.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="Dubai One" tvg-logo="https://caixapreta.pt/logos/Dubai-One.png",Dubai One
+https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="ICI Canal international HD" tvg-logo="https://caixapreta.pt/logos/ICI-Television.png",ICI Television
+https://ici-i.akamaihd.net/hls/live/873426/ICI-Live-Stream/master.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="Grand Lille TV" tvg-logo="https://caixapreta.pt/logos/Grand-Lille-TV.png",Grand Lille TV
+https://str81.creacast.com/grandlilletv/high/playlist.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="Alsace 20" tvg-logo="https://caixapreta.pt/logos/Alsace-20.png",Alsace 20
+https://alsace20.live-kd.com/live/alsace20/ngrp:alsace20_all/playlist.m3u8
+#EXTINF:-1 group-title="TV" tvg-logo="https://caixapreta.pt/logos/Akaku-TV-1.png",Akaku TV 1
+https://akaku.vod.castus.tv/live/ch1.m3u8
+#EXTINF:-1 group-title="TV" tvg-logo="https://caixapreta.pt/logos/Akaku-TV-3.png",Akaku TV 3
+https://akaku.vod.castus.tv/live/ch3.m3u8
+#EXTINF:-1 group-title="TV" tvg-logo="https://caixapreta.pt/logos/D5-TV.png",D5 TV
+https://live.creacast.com/d5tv/smil:d5tv.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV" tvg-logo="https://caixapreta.pt/logos/Gabruu-TV.png",Gabruu TV 
+http://104.237.60.234/live/gabruutv.m3u8
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://caixapreta.pt/logos/Meo-Beachcam.png",LeÃ§a da Palmeira
+https://video-auth1.iol.pt/beachcam/lecadapalmeira/playlist.m3u8
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://caixapreta.pt/logos/Meo-Beachcam.png",Matosinhos
+https://video-auth1.iol.pt/beachcam/matosinhos/playlist.m3u8
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://caixapreta.pt/logos/Meo-Beachcam.png",Esmoriz
+https://video-auth1.iol.pt/beachcam/esmoriz/playlist.m3u8
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://caixapreta.pt/logos/Meo-Beachcam.png",Furadouro
+https://video-auth1.iol.pt/beachcam/furadouro/playlist.m3u8
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://caixapreta.pt/logos/Meo-Beachcam.png",Praia da Torreira
+https://video-auth1.iol.pt/beachcam/torreira/playlist.m3u8
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://caixapreta.pt/logos/Meo-Beachcam.png",Costa Nova
+https://video-auth1.iol.pt/beachcam/costanova/playlist.m3u8
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://caixapreta.pt/logos/Meo-Beachcam.png",Praia da Tocha
+https://video-auth1.iol.pt/beachcam/tocha/playlist.m3u8
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://caixapreta.pt/logos/Meo-Beachcam.png",Figueira da Foz
+https://video-auth1.iol.pt/beachcam/figueiradafoz/playlist.m3u8
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://caixapreta.pt/logos/Meo-Beachcam.png",Figueira da Foz - Cabedelo
+https://video-auth1.iol.pt/beachcam/cabedelo/playlist.m3u8
+# Praias Costa Oeste
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://caixapreta.pt/logos/Meo-Beachcam.png",NazarÃ© - Praia do Norte
+https://video-auth1.iol.pt/beachcam/canhaonazare/playlist.m3u8
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://caixapreta.pt/logos/Meo-Beachcam.png",NazarÃ© - Praia do Norte panorÃ¢mica
+https://video-auth1.iol.pt/beachcam/nazareparadonorte/playlist.m3u8
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://caixapreta.pt/logos/Meo-Beachcam.png",NazarÃ© - Praia da Vila
+https://video-auth1.iol.pt/beachcam/nazarepraiadavila/playlist.m3u8
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://caixapreta.pt/logos/Meo-Beachcam.png",Peniche - Lagide
+https://video-auth1.iol.pt/beachcam/lagide/playlist.m3u8
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://caixapreta.pt/logos/Meo-Beachcam.png",Peniche - Supertubos
+https://video-auth1.iol.pt/beachcam/supertubos/playlist.m3u8
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://caixapreta.pt/logos/Meo-Beachcam.png",Praia da Calada
+https://video-auth1.iol.pt/beachcam/praiadacalada/playlist.m3u8
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://caixapreta.pt/logos/Meo-Beachcam.png",Ericeira
+https://video-auth1.iol.pt/beachcam/ericeiraspots/playlist.m3u8
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://caixapreta.pt/logos/Meo-Beachcam.png",Matadouro + SkatePark
+https://video-auth1.iol.pt/beachcam/matadouroskatepark/playlist.m3u8
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://caixapreta.pt/logos/Meo-Beachcam.png",Praia dos Pescadores
+https://video-auth1.iol.pt/beachcam/bcpescadores/playlist.m3u8
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://caixapreta.pt/logos/Meo-Beachcam.png",Ericeira - Praia do Sul
+https://video-auth1.iol.pt/beachcam/praiadosulericeira/playlist.m3u8
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://caixapreta.pt/logos/Meo-Beachcam.png",Foz do Lizandro
+https://video-auth1.iol.pt/beachcam/fozdolizandro/playlist.m3u8
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://caixapreta.pt/logos/Meo-Beachcam.png",Praia Grande - Norte
+https://video-auth1.iol.pt/beachcam/praiagrande/playlist.m3u8
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://caixapreta.pt/logos/Meo-Beachcam.png",Praia do Guincho - Norte
+https://video-auth1.iol.pt/beachcam/praiaguinchonorte/playlist.m3u8
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://caixapreta.pt/logos/Meo-Beachcam.png",Praia do Guincho - Sul
+https://video-auth1.iol.pt/beachcam/praiaguinchosul/playlist.m3u8
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://caixapreta.pt/logos/Meo-Beachcam.png",Praia das Moitas
+https://video-auth1.iol.pt/beachcam/moitas/playlist.m3u8
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://caixapreta.pt/logos/Meo-Beachcam.png",Tamariz
+https://video-auth1.iol.pt/beachcam/tamariz/playlist.m3u8
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://caixapreta.pt/logos/Meo-Beachcam.png",PDG - SkatePark
+https://video-auth1.iol.pt/beachcam/skateparkparquegeracoes/playlist.m3u8
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://caixapreta.pt/logos/Meo-Beachcam.png",SÃ£o Pedro do Estoril
+http://video-auth1.iol.pt:1935/beachcam/saopedroestoria/playlist.m3u8
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://caixapreta.pt/logos/Meo-Beachcam.png",Praia das Avencas
+https://video-auth1.iol.pt/beachcam/praiadasavencas/playlist.m3u8
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://caixapreta.pt/logos/Meo-Beachcam.png",Parede
+https://video-auth1.iol.pt/beachcam/parede/playlist.m3u8
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://caixapreta.pt/logos/Meo-Beachcam.png",Carcavelos
+https://video-auth1.iol.pt/beachcam/carcavelos/playlist.m3u8
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://caixapreta.pt/logos/Meo-Beachcam.png",Santo Amaro
+https://video-auth1.iol.pt/beachcam/santoamaro/playlist.m3u8
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://caixapreta.pt/logos/Meo-Beachcam.png",Costa de Caparica - S. JoÃ£o
+https://video-auth1.iol.pt/beachcam/costacaparicasaojoao/playlist.m3u8
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://caixapreta.pt/logos/Meo-Beachcam.png",Costa de Caparica - CDS
+https://video-auth1.iol.pt/beachcam/costacaparicacds/playlist.m3u8
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://caixapreta.pt/logos/Meo-Beachcam.png",Costa de Caparica - Riviera
+https://video-auth1.iol.pt/beachcam/riviera/playlist.m3u8
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://caixapreta.pt/logos/Meo-Beachcam.png",Fonte da Telha
+https://video-auth1.iol.pt/beachcam/fontedatelha/playlist.m3u8
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://caixapreta.pt/logos/Meo-Beachcam.png",Praia do Carvalhal
+https://video-auth1.iol.pt/beachcam/carvalhal/playlist.m3u8
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://caixapreta.pt/logos/Meo-Beachcam.png",S. Torpes
+https://video-auth1.iol.pt/beachcam/saotorpes/playlist.m3u8
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://caixapreta.pt/logos/Meo-Beachcam.png",Zambujeira do Mar
+https://video-auth1.iol.pt/beachcam/zambujeira/playlist.m3u8
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://caixapreta.pt/logos/Meo-Beachcam.png",Arrifana
+https://video-auth1.iol.pt/beachcam/arrifana/playlist.m3u8
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://caixapreta.pt/logos/Meo-Beachcam.png",Praia da Luz
+https://video-auth1.iol.pt/beachcam/luz/playlist.m3u8
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://caixapreta.pt/logos/Meo-Beachcam.png",Meia Praia
+https://video-auth1.iol.pt/beachcam/meiapraia/playlist.m3u8
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://caixapreta.pt/logos/Meo-Beachcam.png",Alvor
+https://video-auth1.iol.pt/beachcam/alvor/playlist.m3u8
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://caixapreta.pt/logos/Meo-Beachcam.png",Praia da Rocha
+https://video-auth1.iol.pt/beachcam/praiadarocha/playlist.m3u8
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://caixapreta.pt/logos/Meo-Beachcam.png",Ferragudo - Praia Grande
+https://video-auth1.iol.pt/beachcam/ferragudo/playlist.m3u8
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://caixapreta.pt/logos/Meo-Beachcam.png",Carvoeiro
+https://video-auth1.iol.pt/beachcam/carvoeiro/playlist.m3u8
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://caixapreta.pt/logos/Meo-Beachcam.png",Senhora da Rocha e Praia Nova
+https://video-auth1.iol.pt/beachcam/bcigreja/playlist.m3u8
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://caixapreta.pt/logos/Meo-Beachcam.png",Praia da GalÃ©
+https://video-auth1.iol.pt/beachcam/bcgale/playlist.m3u8
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://caixapreta.pt/logos/Meo-Beachcam.png",Praia do Peneco
+https://video-auth1.iol.pt/beachcam/praiadopeneco/playlist.m3u8
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://caixapreta.pt/logos/Meo-Beachcam.png",Jardim do Mar
+https://video-auth1.iol.pt/beachcam/madeirajardimdomar/playlist.m3u8
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://caixapreta.pt/logos/Meo-Beachcam.png",Ferreira do ZÃªzere - Lago Azul
+https://video-auth1.iol.pt/beachcam/bclagoazul/playlist.m3u8
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://caixapreta.pt/logos/Meo-Beachcam.png",Ferreira do ZÃªzere - Dornes
+https://video-auth1.iol.pt/beachcam/bcdornes/playlist.m3u8
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://caixapreta.pt/logos/Meo-Beachcam.png",Lisboa - Cais do SodrÃ©
+https://video-auth1.iol.pt/beachcam/caisdosodre/playlist.m3u8
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://caixapreta.pt/logos/Meo-Beachcam.png",Lisboa - BelÃ©m
+https://video-auth1.iol.pt/beachcam/belem/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XNP4TM7n/Polish-20200617-000135235.jpg" group-title="TV LOCAL",TV ÁGUA BOA
+http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L61CJkFk/images.jpg" group-title="FLMES", TV NA ILHA (Filmes 24h)
+https://video01.kshost.com.br/clodoaldo6562/clodoaldo6562/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L61CJkFk/images.jpg" group-title="FLMES", CLASSIQUE TV
+https://stmv6.srvstm.com/classique/classique/playlist-480p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KcCWHbk.png" group-title="INDONESIA",Celestial Movies (Opt-1)
+http://210.210.155.35/qwr9ew/s/s33/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hV46zMX.png" group-title="USA",Folk TV  06
+http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="a2.ru" tvg-name="A2" tvg-logo="http://amediatv.ru/wp-content/uploads/2017/09/a2.png" group-title="Russia;Movies",A2 (Opt-3)  11
+http://sc.id-tv.kz/A2_36_37.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Unsorted",CANAL WOW  25
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1 tvg-logo="http://www.faap.br/tvfaap/images/logo_tv.png" group-title="CANAL ABERTO", TV FAAP
+http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/YrBt8gZ.png" group-title="Local",Summer TV
+http://tv01.logicahost.com.br:1935/summertv/summertv/live.m3u8
+#EXTINF:-1 tvg-logo="http://kuriakos-cine.com/wp-content/uploads/2017/07/cropped-512x512_cine_v1-270x270.png" group-title="PORTUGAL",Kuriakos Cine
+http://c2.manasat.com:1935/kcine/kcine3/FluxusTV.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/americanhorrors.png" group-title="Entretenimiento", American Horrors
+http://170.178.189.66:1935/live/Stream1/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/multivision.png" group-title="Entretenimiento", Multivision Argentina
+http://panel.dattalive.com:1935/8250/8250/.m3u8
+#EXTINF:-1 tvg-logo="http://radioextremacr.com/img/logo.png" group-title="Cine", Extrema TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/cachipum.png" group-title="Infantil", Cachipum TV
+http://edge1.cl.grupoz.cl/cachipuntv/live/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/fighttime.png" group-title="Deportes", Fight Time
+http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
+#EXTINF:-1 group-title="TV ABERTA",TVE RS
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1 group-title="INFANTIL",Kuriakos Kids
+http://c2.manasat.com:1935/kkids/kkids2/chunklist_w817493835.m3u8
+#EXTINF:-1 group-title="ESPORTES",Real Madrid TV
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XNP4TM7n/Polish-20200617-000135235.jpg" group-title="TV LOCAL",TV Digital Birigui
+http://wse01.logicahost.com.br:1935/tvdigitalbirigui/_definst_/tvdigitalbirigui/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1Rjv4P5K/Polish-20200616-234408165.jpg" group-title="INFANTIL",3ABN KIDS
+https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
+
+
+
+https://pastebin.com/raw/qwdDjLXB
+
+
+
+              
